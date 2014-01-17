@@ -30,4 +30,4 @@ curl localhost:3000/api/products/stats
 
 ## source
 
-See the `stats` method in [product.js](https://github.com/strongloop/loopback-example-remote-methods/blob/master/models/product.js).
+See the `stats` method in [product.js](/models/product.js).
